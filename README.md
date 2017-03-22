@@ -1,4 +1,4 @@
-# Salty
+# Garem
 
 *This npm will generate random salt code with length as expected and education purpose. In Node.js you can add as secret or salt.*
 
