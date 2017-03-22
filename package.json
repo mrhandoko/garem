@@ -1,0 +1,24 @@
+{
+  "name": "salty",
+  "version": "0.1.0",
+  "description": "This npm will generate random salt code with length as expected and education purpose only. In Node.js you can add as secret or salt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrhandoko/npm-package.git"
+  },
+  "keywords": [
+    "salt",
+    "random",
+    "number"
+  ],
+  "author": "mrhandoko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrhandoko/npm-package/issues"
+  },
+  "homepage": "https://github.com/mrhandoko/npm-package#readme"
+}
