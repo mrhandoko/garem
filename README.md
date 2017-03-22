@@ -2,10 +2,11 @@
 
 *This npm will generate random salt code with length as expected and education purpose. In Node.js you can add as secret or salt.*
 
-Salty will generate `random code` with `simplicity`.
+Garem will generate `random code` with `simplicity`.
 
 ### Usage
 ```javascript
+//tes tes
 var garem = require('garem')
 garem(character length)
 ```
