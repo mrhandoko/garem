@@ -6,7 +6,7 @@ Garem will generate `random code` with `simplicity`.
 
 ### Usage
 ```javascript
-//tes tes
+
 var garem = require('garem')
 garem(character length)
 ```
