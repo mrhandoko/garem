@@ -1,5 +1,5 @@
 {
-  "name": "salty",
+  "name": "garem",
   "version": "0.1.0",
   "description": "This npm will generate random salt code with length as expected and education purpose only. In Node.js you can add as secret or salt.",
   "main": "index.js",

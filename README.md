@@ -1,26 +1,26 @@
 # Salty
 
-*This npm will generate random salt code with length as expected and education purpose only. In Node.js you can add as secret or salt.*
+*This npm will generate random salt code with length as expected and education purpose. In Node.js you can add as secret or salt.*
 
-Inline `code` has `back-ticks around` it.
+Salty will generate `random code` with `simplicity`.
 
 ### Usage
 ```javascript
-var salty = require('salty')
-salty(character length)
+var garem = require('garem')
+garem(character length)
 ```
 ### Example
 ```javascript
-var salty = require('salty')
+var garem = require('garem')
 
-console.log(salty(6))
+console.log(garem(6))
 // Prints Number Character, for example: 9bzL21, dCCnny, etc
 
 // Or you can add it as salt on crypto Node js
 const crypto = require('crypto');
 
-// assign salty to secret
-const secret = salty(5)
+// assign garem to secret
+const secret = garem(5)
 const hash = crypto.createHmac('sha256', secret)
                    .update('Nasi Padang')
                    .digest('hex');
