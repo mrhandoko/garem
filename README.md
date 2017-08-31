@@ -12,7 +12,10 @@ garem(character length)
 ```
 ### Example
 ```javascript
-var garem = require('garem')
+var garem = require('garem');
+
+// or
+import garem from 'garem';
 
 console.log(garem(6))
 // Prints Number Character, for example: 9bzL21, dCCnny, etc
